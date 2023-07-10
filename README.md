@@ -8,6 +8,7 @@ Copy the 16 character password.
 
 Create a .env file in the automated_emails folder
 Inside the file, it should look something like this:
+
 sender=senderEmail@gmail.com
 
 pass=your_16_character_password
